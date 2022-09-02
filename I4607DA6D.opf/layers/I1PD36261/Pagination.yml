@@ -1,0 +1,58 @@
+id: 95e328aec1ce452ba1e8305e0a659b3d
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  2399c0ea8b0b49788dad4c8bf89dbf83:
+    span:
+      start: 0
+      end: 771
+    imgnum: 1
+    reference: I1PD362610001.tif
+  af78ecce9bfb4b95a543ee4d359c3afd:
+    span:
+      start: 772
+      end: 861
+    imgnum: 3
+    reference: I1PD362610003.tif
+  62e28b5e553446299f1c6f8f2efddf3a:
+    span:
+      start: 862
+      end: 1125
+    imgnum: 4
+    reference: I1PD362610004.tif
+  b3bd0319318a4dceb135622ae0aa2087:
+    span:
+      start: 1126
+      end: 1361
+    imgnum: 5
+    reference: I1PD362610005.tif
+  79d4f8e0983943a799fb85ee5a5b0615:
+    span:
+      start: 1362
+      end: 1735
+    imgnum: 6
+    reference: I1PD362610006.tif
+  b2adb779f5394694af231da484bdb4cd:
+    span:
+      start: 1736
+      end: 2112
+    imgnum: 7
+    reference: I1PD362610007.tif
+  576a0e1d5add4f6bbc9224e6af456023:
+    span:
+      start: 2113
+      end: 2521
+    imgnum: 8
+    reference: I1PD362610008.tif
+  d89793419a4046d28d06dfba3972df89:
+    span:
+      start: 2522
+      end: 2938
+    imgnum: 9
+    reference: I1PD362610009.tif
+  02495f7804404ccfb4976aed3c2f47db:
+    span:
+      start: 2939
+      end: 3370
+    imgnum: 10
+    reference: I1PD362610010.tif
